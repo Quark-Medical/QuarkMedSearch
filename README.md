@@ -1,6 +1,6 @@
 # QuarkMedSearch: A Long-Horizon Deep Search Agent for Exploring Medical Intelligence
 
-> **Authors:** Zhichao Lin\*, Zhichao Liang\*, Gaoqiang Liu, Meng Xu, Baoyu Xiang, Jian Xu, Guanjun Jiang  
+> **Authors:** Zhichao Lin\*, Zhichao Liang\*, Gaoqiang Liu, Meng Xu, Baoyu Xiang, Shuxin Zhao, Yao Wu, Jian Xu, Guanjun Jiang  
 > **Affiliations:** Qwen Applications Business Group, Alibaba; Shanghai Jiao Tong University  
 > **Domain:** Medical Deep Search, Agentic AI, Reinforcement Learning
 
@@ -48,7 +48,7 @@ If you find this work useful, please consider citing:
 ```bibtex
 @article{lin2026quarkmedsearch,
   title={QuarkMedSearch: A Long-Horizon Deep Search Agent for Exploring Medical Intelligence},
-  author={Lin, Zhichao and Liang, Zhichao and Liu, Gaoqiang and Xu, Meng and Xiang, Baoyu and Xu, Jian and Jiang, Guanjun},
+  author={Lin, Zhichao and Liang, Zhichao and Liu, Gaoqiang and Xu, Meng and Xiang, Baoyu and Zhao, Shuxin and Wu, Yao and Xu, Jian and Jiang, Guanjun},
   journal={arXiv preprint arXiv:2604.12867},
   year={2026}
 }
